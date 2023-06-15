@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="https://github.com/KikuTiii/Libft.42/assets/111128991/050b2f7b-c18c-47ce-bc53-175a31d215cc" width= "100px"> 42 São Paulo | Libft
+	<img src="https://github.com/KikuTiii/ft_printf/assets/111128991/5d25c821-21eb-4d6d-b97b-ca438a2a3959" width= "100px"> 42 São Paulo | Libft
 	<hr>
-	<img src="https://github.com/KikuTiii/Libft.42/assets/111128991/454f467b-1d07-4f54-acf5-34fe3d6dd6bd"  width="650px">
+	<img src="https://github.com/KikuTiii/ft_printf/assets/111128991/e1b07bf3-bcd9-47e1-b78c-b937627b09dc"  width="650px">
 	<br>
